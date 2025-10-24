@@ -25,5 +25,3 @@ This project uses a **Hospital Management System** database with the following t
    - Compared total earnings across specializations.
    - Found cities with the highest average treatment costs.
   
-### Outcome
-This task builds strong foundational skills in SQL analytics — particularly in **summarization, categorization, and filtering** — essential for roles in **data analysis, business intelligence, and database management**.
